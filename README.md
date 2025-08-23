@@ -23,6 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="100"/>
 </p>
 
 ---
