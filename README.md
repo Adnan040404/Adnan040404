@@ -4,30 +4,26 @@
 
 ---
 
-![Banner](https://i.ibb.co/0Jmshvb/Data-Engineer-Banner.png)  
-
----
-
 ## 🧑‍💻 About Me  
 - 🌱 Currently learning **Data Engineering, PySpark, Databricks, and Cloud Tools**  
-- 📊 Passionate about **Big Data, ML, and AI**  
-- 🎯 Goal: Become an **Expert Data Engineer**  
-- ☕ Fueled by **coffee & curiosity**  
+- 📊 Passionate about **Data Analytics , Big Data, ML, and AI**  
+- 🎯 Goal: Become an **Expert Data Engineer/AI Engineer**  
 
 ---
 
-## ⚡ Skills & Tools  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🛠️ My Daily Tech  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -43,22 +39,22 @@
 ## 🚀 Featured Projects  
 
 ### 🔹 SQL Projects  
-- 🚀 [Sales Insights (SQL + Tableau)](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau)  
-- 📊 [Bank Analytics Dashboard](https://github.com/Adnan040404/Bank_Analytics_Dashboard)  
+- [Sales Insights (SQL + Tableau)](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau)  
+- [Bank Analytics Dashboard](https://github.com/Adnan040404/Bank_Analytics_Dashboard)  
 
 ### 🔹 Python Projects  
-- 🪔 [Diwali Sales Analysis](https://github.com/Adnan040404/Diwali-Sales-Analysis)  
-- 🛒 [Amazon Sales Analysis](https://github.com/Adnan040404/Amazon-Sales-Analysis)  
-- 🏨 [Hotel Booking Analysis](https://github.com/Adnan040404/Hotel-Booking-Analysis)  
+- [Diwali Sales Analysis](https://github.com/Adnan040404/Diwali-Sales-Analysis)  
+- [Amazon Sales Analysis](https://github.com/Adnan040404/Amazon-Sales-Analysis)  
+- [Hotel Booking Analysis](https://github.com/Adnan040404/Hotel-Booking-Analysis)  
 
 ### 🔹 Data Engineering Projects  
-- 🎥 [YouTube Analytics Pipeline (API + PySpark + Delta Lake)](https://github.com/Adnan040404/YouTube-Video-Analytics-Pipeline)  
-- 🔐 [Bank Transactions Fraud Detection (PySpark + ML)](https://github.com/Adnan040404/Bank-Fraud-Detection)  
+- [YouTube Analytics Pipeline (API + PySpark + Delta Lake)](https://github.com/Adnan040404/YouTube-Video-Analytics-Pipeline)  
+- [Bank Transactions Fraud Detection (PySpark + ML)](https://github.com/Adnan040404/Bank-Fraud-Detection)  
 
 ### 🔹 Machine Learning Projects  
-- 💳 [Credit Card Fraud Detection](https://github.com/Adnan040404/Credit-Card-Fraud-Detection)  
-- ❤️ [Heart Disease Prediction](https://github.com/Adnan040404/Heart-Disease-Prediction)  
-- 🥔 [Potato Disease Detection (CNN)](https://github.com/Adnan040404/Potato-Disease-Detection)  
+- [Credit Card Fraud Detection](https://github.com/Adnan040404/Credit-Card-Fraud-Detection)  
+- [Heart Disease Prediction](https://github.com/Adnan040404/Heart-Disease-Prediction)  
+- [Potato Disease Detection (CNN)](https://github.com/Adnan040404/Potato-Disease-Detection)  
 
 ---
 
@@ -72,24 +68,6 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Adnan040404&theme=onedark&row=1&column=6)  
-
----
-
-## 🐍 Contribution Snake  
-
-![Snake animation](https://github.com/Adnan040404/Adnan040404/blob/output/github-contribution-grid-snake.svg)  
-
----
-
-## ✨ Favorite Quote  
-
-_"Data is the new oil, but it’s only valuable if refined properly."_  
-
----
-
 ## 🤝 Connect With Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-740336293/)  
@@ -98,7 +76,5 @@ _"Data is the new oil, but it’s only valuable if refined properly."_
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Adnan040404&icon=5&color=12)  
 ![Profile views](https://komarev.com/ghpvc/?username=Adnan040404&color=blue)  
-
-⭐ If you like my work, don’t forget to **star this repo**! 
+⭐ If you like my work, don’t forget to **star this repo**!  
