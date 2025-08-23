@@ -27,7 +27,9 @@
 
 ---
 
-## 📂 Portfolio Structure  
+## 📂 Portfolio  
+
+📌 Check out my complete **Data Portfolio** here → [Adnan-Data-Portfolio](https://github.com/Adnan040404/Adnan-Data-Portfolio)  
 
 - 🗂 **SQL-Projects** → Query optimization, joins, advanced analytics, dashboards  
 - 🗂 **Python-Data-Analysis** → Pandas, NumPy, Matplotlib, Seaborn, Flask dashboards  
