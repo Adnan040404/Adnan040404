@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me  
 - 🌱 Currently learning **Data Engineering, PySpark, Databricks, and Cloud Tools**  
-- 📊 Passionate about **Data Analytics , Big Data, ML, and AI**  
+- 📊 Passionate about **Data Analytics, Big Data, ML, and AI**  
 - 🎯 Goal: Become an **Expert Data Engineer/AI Engineer**  
 
 ---
@@ -33,12 +33,22 @@
 
 ## 📂 Portfolio  
 
-📌 Check out my complete **Data Portfolio** here → [Adnan-Data-Portfolio](https://github.com/Adnan040404/Adnan-Data-Portfolio)  
+📌 Complete **Data Portfolio** → [Adnan-Data-Portfolio](https://github.com/Adnan040404/Adnan-Data-Portfolio)  
 
 - 🗂 **SQL-Projects** → Query optimization, joins, advanced analytics, dashboards  
 - 🗂 **Python-Data-Analysis** → Pandas, NumPy, Matplotlib, Seaborn, Flask dashboards  
 - 🗂 **Data-Engineering** → PySpark, Databricks, Delta Lake, ETL pipelines, Kafka  
 - 🗂 **Machine-Learning** → Classification, Regression, Deep Learning, NLP  
+
+<details>
+<summary>📂 View All Projects</summary>
+
+- **SQL Projects**: Sale Insights, Bike Shop Analysis, Hospital Management  
+- **Python Projects**: Diwali Sales, Amazon Sales, Hotel Booking Analysis  
+- **Data Engineering**: Flipkart ETL, Databricks ETL, YouTube Analytics, Bank Transactions Fraud Detection  
+- **Machine Learning**: Credit Card Fraud, Heart Disease, Potato Disease Detection  
+
+</details>
 
 ---
 
@@ -47,6 +57,7 @@
 ### 🔹 SQL Projects  
 - [Sales Insights (SQL + Tableau)](https://github.com/Adnan040404/Sale-Insights-Data-Analysis-using-SQL-and-Tableau)  
 - [Bank Analytics Dashboard](https://github.com/Adnan040404/Bank_Analytics_Dashboard)  
+- [Bike Shop SQL + Power BI](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis)  
 
 ### 🔹 Python Projects  
 - [Diwali Sales Analysis](https://github.com/Adnan040404/Diwali-Sales-Analysis)  
@@ -56,11 +67,12 @@
 ### 🔹 Data Engineering Projects  
 - [YouTube Analytics Pipeline (API + PySpark + Delta Lake)](https://github.com/Adnan040404/YouTube-Video-Analytics-Pipeline)  
 - [Bank Transactions Fraud Detection (PySpark + ML)](https://github.com/Adnan040404/Bank-Fraud-Detection)  
+- [Flipkart ETL Pipeline (PySpark + Databricks)](https://github.com/Adnan040404/flipkart-data-analysis-pyspark-databricks)  
 
 ### 🔹 Machine Learning Projects  
 - [Credit Card Fraud Detection](https://github.com/Adnan040404/Credit-Card-Fraud-Detection)  
-- [Heart Disease Prediction](https://github.com/Adnan040404/Heart-Disease-Prediction)  
-- [Potato Disease Detection (CNN)](https://github.com/Adnan040404/Potato-Disease-Detection)  
+- [Heart Disease Prediction](https://github.com/Adnan040404/Heart-Disease-Prediction-Using-Logistic-Regression)  
+- [Potato Disease Detection (CNN)](https://github.com/Adnan040404/potato-disease-detection)  
 
 ---
 
@@ -83,4 +95,4 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Adnan040404&color=blue)  
-⭐ If you like my work, don’t forget to **star this repo**!  
+⭐ If you like my work, **star this repo**!  
