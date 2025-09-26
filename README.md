@@ -91,10 +91,13 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-740336293/)  
 - 📂 [GitHub](https://github.com/Adnan040404)  
 - ✉️ Email: **adnandanish0404@gmail.com**  
-- 🔗 **LinkedIn Badge:**  
-<a href="https://www.linkedin.com/in/muhammad-adnan-740336293/">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Adnan-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
-</a>
+
+### 🌐 Find Me Online
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Adnan-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/muhammad-adnan-740336293/) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-AdnanTheAnalyst-green?logo=fiverr&style=flat-square)](https://www.fiverr.com/adnantheanalyst) 
+[![Upwork](https://img.shields.io/badge/Upwork-Adnan-green?logo=upwork&style=flat-square)](https://www.upwork.com/freelancers/~01f80d7b5d00fcd42d?mp_source=share) 
+[![Freelancer](https://img.shields.io/badge/Freelancer-Adnan-blue?logo=freelancer&style=flat-square)](https://www.freelancer.com/u/AdnanTheAnalyst)
+
 
 ---
 
