@@ -91,6 +91,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-adnan-740336293/)  
 - 📂 [GitHub](https://github.com/Adnan040404)  
 - ✉️ Email: **adnandanish0404@gmail.com**  
+- 🔗 **LinkedIn Badge:**  
+<a href="https://www.linkedin.com/in/muhammad-adnan-740336293/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Adnan-blue?logo=linkedin&style=flat-square" alt="LinkedIn"/>
+</a>
 
 ---
 
