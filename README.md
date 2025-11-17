@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=500&lines=Data+Engineer+in+progress;Python+%7C+SQL+%7C+PySpark;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
-
 ## 🧑‍💻 About Me  
 - 🌱 Currently learning **Data Engineering, PySpark, Databricks, and Cloud Tools**  
 - 📊 Passionate about **Data Analytics, Big Data, ML, and AI**  
