@@ -1,32 +1,31 @@
-👋 Hi, I'm Adnan!
+## Hi, I'm Adnan
 
-## 🧑‍💻 About Me
+I'm a financial data analyst. My day job is reconciliation: matching invoices to
+payments across 20+ retail and marketplace accounts, finding short payments,
+duplicates and unapplied credits, and helping automate that work with Python,
+SQL and Excel.
 
-I'm a Financial Data Analyst working with real invoice, payment, and
-reconciliation data across 15+ major dropship retail accounts (Lowe's, Home
-Depot, Walmart, Sam's Club, Wayfair, and others). My day-to-day: matching
-invoices to payments, catching short-pays, overpayments, duplicate billing,
-and unapplied credits, and automating reconciliation with SQL, Python, and
-Excel/Power Query.
+I'm building on that toward data engineering (Python, SQL, PySpark, Databricks).
+The projects below are the ones I'd walk you through. They use generated or
+public sample data, never data from a client or employer.
 
-I'm building deeper Data Engineering skills (Python, SQL, PySpark,
-Databricks) on top of that real financial-data foundation — not collecting
-tools for their own sake, but building toward international Data /
-Analytics / Data Engineering roles.
+## Projects
 
-## 📂 Portfolio
+| Project | What it does |
+|---|---|
+| [Sales Data ETL Pipeline](https://github.com/Adnan040404/sales-data-etl-pipeline) | Merges messy exports from three systems into a clean SQL database, an Excel report and SQL insights |
+| [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs, plus HTML and Excel reports |
+| [Dropship Reconciliation Engine](https://github.com/Adnan040404/dropship-reconciliation-engine) | Invoice-to-payment reconciliation in pandas and in SQL, with identical results |
+| [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up |
+| [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model with DAX measures |
 
-📌 Complete Data Portfolio → [Adnan-Data-Portfolio](https://github.com/Adnan040404/Adnan-Data-Portfolio)
+More on the [portfolio index](https://github.com/Adnan040404/Adnan-Data-Portfolio)
+and at [portfolio-adnan040404.vercel.app](https://portfolio-adnan040404.vercel.app).
 
-## 🔹 Featured Work
+## Tools
 
-- 📊 Power BI dashboards for business/financial reporting
-- 🗃️ SQL: joins, subqueries, window functions, reconciliation queries
-- 🚧 **In progress:** Invoice + Payment Matching System — a reconciliation
-  engine modeled on real dropship account matching logic (invoice/payment
-  matching, short-pay & duplicate-billing detection, SQL + Python)
+Python (pandas) · SQL · Excel and Power Query · Power BI · PySpark and Databricks · Git
 
-## 🤝 Connect With Me
+## Contact
 
-💼 [LinkedIn](https://linkedin.com/in/muhammad-adnan-740336293)
-✉️ adnandanish0404@gmail.com
+[LinkedIn](https://linkedin.com/in/muhammad-adnan-740336293) · adnandanish0404@gmail.com
