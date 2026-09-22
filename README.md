@@ -19,6 +19,7 @@ public sample data, never data from a client or employer.
 | [AR Aging & Collections Analyzer](https://github.com/Adnan040404/ar-aging-collections-analyzer) | Ages open invoices into buckets, nets credit memos and overpayments against the oldest debt first, computes DSO |
 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up |
 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model with DAX measures |
+| [Bike Shop Sales & Profitability Analysis](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | SQL and Power BI analysis that caught and fixed a real profit-formula bug in its own first version |
 
 More on the [portfolio index](https://github.com/Adnan040404/Adnan-Data-Portfolio)
 and at [portfolio-adnan040404.vercel.app](https://portfolio-adnan040404.vercel.app).
