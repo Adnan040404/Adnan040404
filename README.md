@@ -16,6 +16,7 @@ public sample data, never data from a client or employer.
 | [Sales Data ETL Pipeline](https://github.com/Adnan040404/sales-data-etl-pipeline) | Merges messy exports from three systems into a clean SQL database, an Excel report and SQL insights |
 | [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs, plus HTML and Excel reports |
 | [Dropship Reconciliation Engine](https://github.com/Adnan040404/dropship-reconciliation-engine) | Invoice-to-payment reconciliation in pandas and in SQL, with identical results |
+| [AR Aging & Collections Analyzer](https://github.com/Adnan040404/ar-aging-collections-analyzer) | Ages open invoices into buckets, nets credit memos and overpayments against the oldest debt first, computes DSO |
 | [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up |
 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model with DAX measures |
 
