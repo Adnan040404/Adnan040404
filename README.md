@@ -10,7 +10,7 @@ The projects below are the ones I'd walk you through, listed with their level so
 know what to expect. They use generated or public sample data, never data from a
 client or employer.
 
-## Professional (closest to my day job)
+## Advanced (closest to my day job)
 
 | Project | What it does |
 |---|---|
@@ -22,11 +22,11 @@ client or employer.
 
 | Project | What it does |
 |---|---|
-| [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs |
 | [PySpark Pizza Analytics](https://github.com/Adnan040404/Databricks-End-to-End-Spark-Project-with-Unity-Catalog) | Seven business questions in PySpark, checked against pandas |
-| [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up |
 | [Sales Analysis (SQL, Excel, Tableau)](https://github.com/Adnan040404/Sales-Analysis-with-SQL-Excel-and-Tableau) | Includes a wrong first conclusion I caught and corrected |
 | [Bike Shop Sales & Profitability](https://github.com/Adnan040404/bike-shop-sql-powerbi-analysis) | SQL and Power BI; caught and fixed a profit-formula bug in its own first version |
+| [Weather Data ETL Pipeline](https://github.com/Adnan040404/weather-data-etl-pipeline) | REST API to SQL with retries, validation and safe re-runs |
+| [Payout Reconciliation Report](https://github.com/Adnan040404/payout-reconciliation-excel-report) | A formula-driven Excel report of what was paid, what is missing and what doesn't add up |
 | [Sales Performance Dashboard](https://github.com/Adnan040404/sales-powerbi-dashboard) | Two-page Power BI dashboard on a star-schema model with DAX measures |
 
 ## Beginner practice
